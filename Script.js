@@ -1,1 +1,0 @@
-alert( "Sigma ka Warr ")
